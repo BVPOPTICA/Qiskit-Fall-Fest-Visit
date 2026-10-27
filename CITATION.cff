@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository or any of its poster files, please cite the relevant item using the repository citation or the poster-specific citations in CITATIONS.md."
+title: "Qiskit Fall Fest 2026: Visit to IIIT Delhi"
+authors:
+  - name: "BVPOPTICA"
+    affiliation: "Bharati Vidyapeeth's College of Engineering"
+  - name: "IIIT Delhi"
+date-released: 2026-10-27
+url: "https://github.com/BVPOPTICA/Qiskit-Fall-Fest-Visit"
